@@ -2,6 +2,9 @@
 *.py[cod]
 *.pyc
 __pycache__
+sqlite_database
+env
+venv
 
 # Logs
 *.log
